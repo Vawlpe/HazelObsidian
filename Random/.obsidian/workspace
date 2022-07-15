@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "04f3989151e95474",
+    "type": "split",
+    "children": [
+      {
+        "id": "432720b4cfba176a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "B-DotC/Possible Skip Factors.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7b2fb99d35cdeed",
+    "type": "split",
+    "children": [
+      {
+        "id": "792b8cb2f7282b8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a37d9810a7f6fe6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a0a513849f16643",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3f43e30990cfe5fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a784f1e1be735fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b5176174c79b0bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "B-DotC/Possible Skip Factors.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4e8a57225b96bfa",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "432720b4cfba176a",
+  "lastOpenFiles": [
+    "B-DotC/Possible Skip Factors.md",
+    "B-DotC/Fight skip results.md",
+    "Untitled 1.md",
+    "Texture System RetroMole.svg"
+  ]
+}

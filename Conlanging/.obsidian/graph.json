@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "path:Conlanging",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Conlanging",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Tech/Neko Tail\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.786324786324786,
+  "repelStrength": 3.07692307692308,
+  "linkStrength": 0.521367521367521,
+  "linkDistance": 30,
+  "scale": 1.7112793834805173,
+  "close": true
+}

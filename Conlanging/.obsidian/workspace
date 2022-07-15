@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "f42e94291cc528db",
+    "type": "split",
+    "children": [
+      {
+        "id": "60b8ee04281fd0c4",
+        "type": "split",
+        "dimension": 25.730519480519483,
+        "children": [
+          {
+            "id": "b8700adbb9ec305e",
+            "type": "leaf",
+            "dimension": 62.068965517241374,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Unnamed)/Proto 0/Phonology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e02db30d470db4a",
+            "type": "leaf",
+            "dimension": 37.93103448275862,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Unnamed)/Proto 0/Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "e29942e7d56aa47e",
+        "type": "split",
+        "dimension": 35.22727272727273,
+        "children": [
+          {
+            "id": "7cdb6fb5361cffba",
+            "type": "leaf",
+            "dimension": 27.17065868263473,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Unnamed)/Proto 0/Examples.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de2c302fec4dc24f",
+            "type": "leaf",
+            "dimension": 72.82934131736528,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Unnamed)/Proto 0/Grammar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "66e2595a4414abaf",
+        "type": "leaf",
+        "dimension": 39.0422077922078,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "(Unnamed)/Proto 0/Dictionary.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54b693abfe3b4e69",
+    "type": "split",
+    "children": [
+      {
+        "id": "3adb06a88ea6460a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3957cd3ab672e69f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c1f7f0b7b9ea64aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 321.01219177246094,
+    "collapsed": true
+  },
+  "right": {
+    "id": "073e452f008a6d24",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f680e88ec9e2b01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3e0a3d5a0600655",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "(Unnamed)/Proto 0/Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "6173f9daba192124",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "70c89a24bb89f52e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.2530212402344,
+    "collapsed": true
+  },
+  "active": "7e02db30d470db4a",
+  "lastOpenFiles": [
+    "(Unnamed)/Proto 0/Notes.md",
+    "(Unnamed)/Proto 0/Phonology.md",
+    "(Unnamed)/Proto 0/Examples.md",
+    "(Unnamed)/Proto 0/Dictionary.md",
+    "(Unnamed)/Proto 0/Grammar.md",
+    "Conlanging/(Unnamed)/Proto 0/Dictionary.md",
+    "RWBY Marathon.md",
+    "Conlanging/(Unnamed)/Proto 0/Examples.md",
+    "Conlanging/(Unnamed)/Proto 0/Grammar.md",
+    "Conlanging/(Unnamed)/Proto 0/Phonology.md"
+  ]
+}
